@@ -1,0 +1,107 @@
+{
+  "site": {
+    "title": "Basant Paudel — Network Engineer",
+    "description": "Basant Paudel — Network Engineer. Routing & switching, backend development, and cybersecurity. Portfolio and contact.",
+    "primaryUrl": "https://basantpaudel.digital"
+  },
+  "person": {
+    "name": "Basant Paudel",
+    "headline": "Network Engineer",
+    "tagline": "Network Engineer | Routing & Switching",
+    "about": "Skilled Network Engineer with experience in configuring, maintaining, and troubleshooting LAN/WAN networks. Detail-oriented Network Engineer with strong knowledge of routing, switching, and network security.",
+    "profileImage": "images/profile.jpeg"
+  },
+  "hireFor": [
+    { "label": "Backend Developer", "anchor": "experience-backend" },
+    { "label": "Network Engineer", "anchor": "experience-network" },
+    { "label": "Cybersecurity", "anchor": "experience-cybersecurity" }
+  ],
+  "roles": [
+    {
+      "title": "Backend Developer",
+      "summary": "Python, Django, APIs",
+      "anchor": "experience-backend"
+    },
+    {
+      "title": "Network Engineer",
+      "summary": "Network engineering / security",
+      "anchor": "experience-network"
+    },
+    {
+      "title": "Cybersecurity",
+      "summary": "Threat detection, log analysis, incident response",
+      "anchor": "experience-cybersecurity"
+    }
+  ],
+  "experienceSections": [
+    {
+      "id": "experience-backend",
+      "heading": "Backend Developer",
+      "jobs": [
+        {
+          "role": "Backend Engineer",
+          "company": "Bass AI",
+          "dates": "Jul 2024 — Present",
+          "description": "Built and deployed a Django-based portfolio website with dynamic admin-controlled content, secure media handling, and scalable backend architecture. Applied Python best practices and vibe coding methodology to deliver a clean, efficient, and production-ready web application.",
+          "tags": ["Django", "PostgreSQL", "Python", "SQL"]
+        }
+      ]
+    },
+    {
+      "id": "experience-network",
+      "heading": "Network Engineer",
+      "jobs": [
+        {
+          "role": "Network Engineer",
+          "company": "",
+          "dates": "",
+          "description": "Focus on LAN/WAN design and operations, routing and switching, and securing enterprise-style networks. Combines formal training with hands-on lab practice.",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "experience-cybersecurity",
+      "heading": "Cybersecurity",
+      "jobs": [
+        {
+          "role": "Security Analysis",
+          "company": "Bass AI",
+          "dates": "Jul 2024 — Present",
+          "description": "Network security, Linux hardening, threat detection, log analysis, incident response, vulnerability assessment, and hands-on home lab practice using Google Cybersecurity training.",
+          "tags": ["Linux", "Python"]
+        }
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Google Cybersecurity",
+      "issuer": "Google",
+      "date": "September 2025",
+      "url": "https://www.coursera.org/account/accomplishments/professional-cert/certificate/N9NFWY9R60LM"
+    },
+    {
+      "name": "Google IT Support",
+      "issuer": "Google",
+      "date": "July 2025",
+      "url": "https://www.coursera.org/account/accomplishments/professional-cert/certificate/IK17TNEPRPRH"
+    },
+    {
+      "name": "AWS Solutions Architect",
+      "issuer": "Amazon Web Services",
+      "date": "May 2025",
+      "url": ""
+    }
+  ],
+  "contact": {
+    "heading": "Get in Touch",
+    "intro": "Ready to discuss your next project? Let's connect.",
+    "links": [
+      { "label": "Email", "href": "mailto:basant.p@outlook.com", "variant": "primary" },
+      { "label": "LinkedIn", "href": "https://linkedin.com/in/basant-paudel", "variant": "secondary" },
+      { "label": "GitHub", "href": "https://github.com/bass-p", "variant": "secondary" },
+      { "label": "basantpaudel.digital", "href": "https://basantpaudel.digital", "variant": "secondary" }
+    ]
+  }
+}
